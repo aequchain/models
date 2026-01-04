@@ -1,6 +1,8 @@
 INTEND GOOD USE OF ALL
 -----------------------
 DOLLAR VAULES: APPLY CURRENCY EXCHANGES | CALCULATE INTERNALLY | APPLY OF INTERNAL ECONOMY
+**equifree** | open source
+expans soon
 
 EVER-Model Enterprise Implementation: Enhanced Comprehensive Framework
 Iteratively Refined Business Plans for 11 Self-Sustaining Enterprises

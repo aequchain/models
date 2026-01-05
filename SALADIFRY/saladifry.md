@@ -1,7 +1,7 @@
 SALADIFRY OPTIBEST FRAMEWORK
 100% Self-Sustaining | Scalable | Open-Source | Franchise Model
 
-text
+text: COPY INTO NOTEPAD | TEXT EDITOR
 
 ═══════════════════════════════════════════════════════════════════════════════
                         OPTIBEST FRAMEWORK CALIBRATION

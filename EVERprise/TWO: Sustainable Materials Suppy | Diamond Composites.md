@@ -462,7 +462,7 @@ graph LR
 
 **Financing Strategy:**
 - **Member Pledges**: 40% ($22.9M) - Aequchain-based commitment system
-- **Impact Investment**: 30% ($17.2M) - ESG-focused funds, patient capital
+- **effect Investment**: 30% ($17.2M) - ESG-focused funds, patient capital
 - **Revenue Pre-Sales**: 20% ($11.5M) - Forward contracts with enterprises
 - **Grants & Subsidies**: 10% ($5.7M) - Government, foundation support
 
@@ -521,7 +521,7 @@ graph LR
 | **Profit Margin** | 82% | 85% | 85% | 86% | 88% |
 | **ROI (Cumulative)** | 43% | 105% | 175% | 390% | 1,380% |
 | **Per Employee Value** | $137K | $198K | $238K | $311K | $439K |
-| **Carbon Impact** | -1,800 tons | -2,200 tons | -2,500 tons | -3,500 tons | -5,000 tons |
+| **Carbon effect** | -1,800 tons | -2,200 tons | -2,500 tons | -3,500 tons | -5,000 tons |
 
 **Payback Period: 16 months**
 
@@ -688,7 +688,7 @@ sequenceDiagram
 
 **Mechanical Testing:**
 - **Universal Testing Machine**: Tensile, compression, flexural testing
-- **Impact Testing**: Charpy, Izod for toughness measurement
+- **effect Testing**: Charpy, Izod for toughness measurement
 - **Hardness Testing**: Vickers, Rockwell, Brinell
 - **Fatigue Testing**: Cyclic loading, lifespan prediction
 
@@ -724,7 +724,7 @@ sequenceDiagram
 - **Finite Element Analysis (FEA)**: Structural performance prediction
 - **Computational Fluid Dynamics (CFD)**: Process optimization
 - **Molecular Dynamics (MD)**: Material behavior at atomic scale
-- **Lifecycle Assessment (LCA)**: Environmental impact quantification
+- **Lifecycle Assessment (LCA)**: Environmental effect quantification
 
 **Application Development:**
 - **Customer Collaboration**: Co-design with end users
@@ -761,9 +761,9 @@ sequenceDiagram
 
 ##### **4.3.2 Carbon Accounting**
 
-**Annual Carbon Impact (Large Scale):**
+**Annual Carbon effect (Large Scale):**
 
-| Source | Emissions | Sequestration | Net Impact |
+| Source | Emissions | Sequestration | Net effect |
 |--------|-----------|---------------|------------|
 | **CVD Reactors** | +3,500 tons | -1,000 tons (renewable energy offset) | +2,500 tons |
 | **Mycelium Production** | +500 tons | -2,000 tons (biomass growth) | -1,500 tons |
@@ -774,7 +774,7 @@ sequenceDiagram
 | **Transportation** | +300 tons | 0 tons | +300 tons |
 | **TOTAL** | **+5,800 tons** | **-8,700 tons** | **-2,900 tons** |
 
-**Net Carbon Impact: -2,900 tons CO₂e annually (carbon negative)**
+**Net Carbon effect: -2,900 tons CO₂e annually (carbon negative)**
 
 **Carbon Credit Generation:**
 - **Verified Carbon Standard (VCS)**: -2,900 tons × $50/ton = $145K annual revenue
@@ -960,7 +960,7 @@ graph TD
 
 **Risk Matrix:**
 
-| Risk Category | Probability | Impact | Mitigation Strategy | Contingency Plan |
+| Risk Category | Probability | effect | Mitigation Strategy | Contingency Plan |
 |---------------|-------------|--------|---------------------|------------------|
 | **CVD Reactor Failure** | Medium | High | Redundant systems, preventive maintenance | Spare reactor capacity, rapid repair protocols |
 | **Material Quality Issues** | Low | High | Multi-stage QC, automated inspection | Root cause analysis, process adjustments |
@@ -991,7 +991,7 @@ graph TD
 
 **ISO 14001: Environmental Management Systems**
 - **Environmental Policy**: Commitment to sustainability, continuous improvement
-- **Aspect/Impact Analysis**: Identification of environmental impacts, mitigation
+- **Aspect/effect Analysis**: Identification of environmental effects, mitigation
 - **Operational Controls**: Procedures for waste, emissions, resource use
 - **Monitoring & Measurement**: Real-time tracking, annual reporting
 
@@ -1039,7 +1039,7 @@ graph TD
 - **Comprehensive System Audits**: Full ISO certification reviews
 - **Strategic Planning**: 5-year roadmap, investment priorities
 - **Stakeholder Engagement**: Customer surveys, employee feedback, community input
-- **Sustainability Reporting**: Carbon footprint, environmental impact, social value
+- **Sustainability Reporting**: Carbon footprint, environmental effect, social value
 
 ---
 
@@ -1089,7 +1089,7 @@ graph TD
 | **Carbon Footprint** | -1,800 tons | -2,200 tons | -2,500 tons | -2,900 tons | -4,000 tons | Annual CO₂e |
 | **Water Consumption** | 50K m³/yr | 45K m³/yr | 40K m³/yr | 35K m³/yr | 30K m³/yr | Annual usage |
 | **Waste to Landfill** | 5% | 3% | 1.5% | 0.5% | 0.1% | Waste diversion |
-| **Biodiversity Impact** | Neutral | Positive | Positive | Positive | Positive | Habitat restoration |
+| **Biodiversity effect** | Neutral | Positive | Positive | Positive | Positive | Habitat restoration |
 
 ---
 
@@ -1116,7 +1116,7 @@ graph TD
 - **Partnership Agreements**: Cross-enterprise collaboration frameworks
 - **Governance Documents**: Policies, procedures, decision-making protocols
 - **Risk Assessments**: Identified risks, mitigation strategies, contingency plans
-- **Sustainability Reports**: Environmental impact, carbon accounting, certifications
+- **Sustainability Reports**: Environmental effect, carbon accounting, certifications
 
 **Layer 4: Community Knowledge**
 - **Member Stories**: Employee experiences, lessons learned, best practices
@@ -1400,7 +1400,7 @@ graph TD
 - **Economies of Scale**: Bulk procurement, shared infrastructure
 - **Knowledge Acceleration**: Rapid innovation diffusion
 - **Market Dominance**: Sustainable materials become default choice
-- **Planetary Impact**: Net carbon-negative civilization-scale transformation
+- **Planetary effect**: Net carbon-negative civilization-scale transformation
 
 **Revenue Model:**
 - **Network Revenue**: $2B+ annually
@@ -1639,7 +1639,7 @@ graph TD
 - **Concept**: Eliminate mycelium, hempcrete, bamboo; focus only on diamond
 - **Pros**: Simplified operations, higher margins on diamond
 - **Cons**: Reduced synergies, less comprehensive sustainability, narrower market
-- **Conclusion**: Current diversified portfolio superior for resilience and impact
+- **Conclusion**: Current diversified portfolio superior for resilience and effect
 
 **Alternative 3: Franchise Model**
 - **Concept**: License technology to independent operators
@@ -1656,14 +1656,14 @@ graph TD
 **Theoretical Optimum:**
 - **Profit Margin**: 100% (zero costs)
 - **ROI**: Instant (zero investment)
-- **Carbon Impact**: Infinite negative (pure sequestration)
+- **Carbon effect**: Infinite negative (pure sequestration)
 - **Scalability**: Instantaneous (zero friction)
 - **Quality**: Perfect (zero defects)
 
 **Current Performance:**
 - **Profit Margin**: 85% (Gap: 15% due to immutable costs - labor, energy, materials)
 - **ROI**: 16 months (Gap: Due to capital-intensive CVD reactors, unavoidable)
-- **Carbon Impact**: -2,900 tons (Gap: Limited by production scale, not process)
+- **Carbon effect**: -2,900 tons (Gap: Limited by production scale, not process)
 - **Scalability**: 36 months to maturity (Gap: Due to construction, training, certification)
 - **Quality**: 99.5% (Gap: Due to material science limits, not process control)
 
@@ -1765,7 +1765,7 @@ $15.42M annual cross-enterprise synergies (30% of revenue). Shared infrastructur
 **KEY DESIGN DECISIONS:**
 
 **1. Diversified Product Portfolio (Diamond + Bio-Based Materials)**
-- **Rationale**: Maximizes market resilience, cross-enterprise synergies, and sustainability impact
+- **Rationale**: Maximizes market resilience, cross-enterprise synergies, and sustainability effect
 - **Alternatives Considered**: Pure diamond focus (rejected: less comprehensive), pure bio-materials (rejected: lower margins)
 - **Outcome**: Optimal balance of profitability, sustainability, and market coverage
 
@@ -1878,7 +1878,7 @@ $15.42M annual cross-enterprise synergies (30% of revenue). Shared infrastructur
 **Documented Edge Cases:**
 - **Extreme Weather**: Climate events may disrupt bamboo cultivation (mitigation: diversified sourcing)
 - **Supply Chain Shocks**: Global disruptions may affect methane/hydrogen supply (mitigation: on-site biogas)
-- **Market Volatility**: Diamond price fluctuations may impact revenue (mitigation: diversified applications, internal demand)
+- **Market Volatility**: Diamond price fluctuations may effect revenue (mitigation: diversified applications, internal demand)
 - **Technology Obsolescence**: New diamond synthesis methods may emerge (mitigation: continuous R&D, modular design)
 - **Governance Conflicts**: Decision-making may face deadlock (mitigation: tiered thresholds, liquid delegation)
 
@@ -1893,7 +1893,7 @@ All 199+ diamond applications operational, 100% internal needs fulfilled, extern
 Functional, Efficiency, Robustness, Scalability, Maintainability, Innovation, Elegance, Synergy all verified at premium state.
 
 ✓ **All significant gaps addressed**  
-7 iterations of enhancement, adversarial gap detection, multi-perspective evaluation, no remaining high-impact gaps.
+7 iterations of enhancement, adversarial gap detection, multi-perspective evaluation, no remaining high-effect gaps.
 
 ✓ **Multi-method plateau verification passed**  
 5 independent verification methods (multi-attempt enhancement, independent perspectives, alternative architecture, theoretical limit, fresh perspective) all confirm optimization plateau.
@@ -1933,7 +1933,7 @@ No further enhancement vectors have been identified through exhaustive analysis 
 
 3. **Secure Funding (Month -1 to 0)**
    - Launch member pledge campaign via aequchain
-   - Approach impact investors with ESG focus
+   - Approach effect investors with ESG focus
    - Negotiate pre-sales with potential enterprise partners
    - Apply for grants and subsidies
 

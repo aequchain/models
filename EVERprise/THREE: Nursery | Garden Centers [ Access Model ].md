@@ -5,7 +5,7 @@
 ### PHASE 0: FRAMEWORK CALIBRATION
 
 **Task Magnitude**: MACRO (foundational enterprise, high influence, 85 employees, $21.7M investment)  
-**Rigor Level**: FULL (irreversible infrastructure decisions, safety-critical food systems, community impact)  
+**Rigor Level**: FULL (irreversible infrastructure decisions, safety-critical food systems, community effect)  
 **Optimization Approach**: Complete 10-phase OPTIBEST 2.0 framework with 7+ iterations  
 **Expected Outcome**: Enterprise 3 achieving PREMIUM status across all 8 dimensions
 
@@ -25,7 +25,7 @@ Establish a 100% sustainable, self-sufficient, equidistributed nursery and garde
 | **Accessibility** | ACCESS program participants | 1,200 | 4,500 | 8,000 |
 | **Biodiversity** | Plant varieties maintained | 1,000 | 1,600 | 2,000 |
 | **Profitability** | Monthly profit | $780K | $935K | $1.1M |
-| **Carbon Impact** | Net CO₂e sequestration (tons/year) | -200 | -400 | -600 |
+| **Carbon effect** | Net CO₂e sequestration (tons/year) | -200 | -400 | -600 |
 | **Knowledge Sharing** | Open-source resources published | 50 | 150 | 300 |
 | **Network Integration** | Cross-enterprise transactions | 200/month | 500/month | 800/month |
 
@@ -37,7 +37,7 @@ Establish a 100% sustainable, self-sufficient, equidistributed nursery and garde
 - **Scalability**: Seamless replication from single location to global network
 - **Maintainability**: Fully documented, modular, upgradable, comprehensible to all skill levels
 - **Innovation**: Transcending conventional nursery operations through automation, biomimicry, and blockchain integration
-- **Elegance**: Maximum biodiversity and community impact with minimum complexity
+- **Elegance**: Maximum biodiversity and community effect with minimum complexity
 - **Synergy**: Emergent properties creating value beyond sum of components
 
 #### Context & Constraints
@@ -676,37 +676,37 @@ graph TD
 
 1. **Distributed Network Quality Control**: Ensuring consistent standards across 26 locations  
    **Root Cause**: Geographic dispersion, variable local conditions, coordination complexity  
-   **Impact**: Could compromise brand reputation, customer satisfaction, network integrity
+   **effect**: Could compromise brand reputation, customer satisfaction, network integrity
 
 2. **ACCESS Pricing Revenue Adequacy**: Balancing community access with financial sustainability  
    **Root Cause**: Uncertainty in customer tier distribution, demand elasticity  
-   **Impact**: Could threaten profitability if subsidized customers exceed projections
+   **effect**: Could threaten profitability if subsidized customers exceed projections
 
 3. **Climate Adaptation Speed**: Keeping pace with accelerating climate change  
    **Root Cause**: Biological adaptation timescales vs. rapid environmental shifts  
-   **Impact**: Could reduce plant survival rates, limit variety offerings, increase costs
+   **effect**: Could reduce plant survival rates, limit variety offerings, increase costs
 
 4. **Genetic Library Maintenance**: Sustaining 2,000+ varieties long-term  
    **Root Cause**: Labor intensity, expertise requirements, funding continuity  
-   **Impact**: Could lead to genetic erosion, loss of biodiversity, mission failure
+   **effect**: Could lead to genetic erosion, loss of biodiversity, mission failure
 
 **MEDIUM INFLUENCE GAPS:**
 
 5. **Automation Reliability**: Ensuring robotic systems don't become maintenance burdens  
    **Root Cause**: Complexity, proprietary components, skill requirements  
-   **Impact**: Could increase costs, reduce efficiency gains, create dependencies
+   **effect**: Could increase costs, reduce efficiency gains, create dependencies
 
 6. **Blockchain Adoption**: Ensuring community members embrace new technology  
    **Root Cause**: Digital literacy barriers, technology skepticism, learning curve  
-   **Impact**: Could limit participation, reduce transparency benefits, create exclusion
+   **effect**: Could limit participation, reduce transparency benefits, create exclusion
 
 7. **Indigenous Knowledge Integration**: Incorporating traditional horticultural wisdom  
    **Root Cause**: Historical marginalization, cultural sensitivity, knowledge access  
-   **Impact**: Missed opportunities for innovation, cultural appropriation risks, incomplete solutions
+   **effect**: Missed opportunities for innovation, cultural appropriation risks, incomplete solutions
 
 8. **Disability Access**: Ensuring universal design principles throughout network  
    **Root Cause**: Oversight in planning, cost considerations, awareness gaps  
-   **Impact**: Excludes community members, limits participation, contradicts equity mission
+   **effect**: Excludes community members, limits participation, contradicts equity mission
 
 ---
 
@@ -1219,7 +1219,7 @@ After addressing the four high-influence gaps, the enhanced Enterprise 3 solutio
 **Synergy**: ✓ Emergent properties maximized  
 
 **Social Equity**: ✓ Universal design, indigenous partnerships, therapeutic programs  
-**Environmental Impact**: ✓ Net-negative carbon, 99.9% waste diversion, 95% water efficiency  
+**Environmental effect**: ✓ Net-negative carbon, 99.9% waste diversion, 95% water efficiency  
 **Economic Viability**: ✓ 85% profit margin, diversified revenue, financial safety mechanisms  
 **Community Empowerment**: ✓ ACCESS model, education programs, seed stewardship network  
 **Knowledge Sovereignty**: ✓ Open-source, comprehensive documentation, blockchain transparency  
@@ -1457,7 +1457,7 @@ After addressing the four high-influence gaps, the enhanced Enterprise 3 solutio
 | **Waste Diversion** | 100% | 99.9% | 0.1% | Contaminated materials, practical sorting limits - ACCEPTABLE |
 | **Energy Self-Sufficiency** | 100% | 120% | -20% | EXCEEDS theoretical (surplus exported) - OPTIMAL |
 | **Water Efficiency** | 100% recycling | 95% | 5% | Evapotranspiration, plant uptake - IMMUTABLE |
-| **Carbon Impact** | Net-negative | -400 tons/year | N/A | ACHIEVES theoretical optimum |
+| **Carbon effect** | Net-negative | -400 tons/year | N/A | ACHIEVES theoretical optimum |
 | **Accessibility** | Universal | 20 access points + universal design | N/A | ACHIEVES theoretical optimum |
 | **Genetic Diversity** | All viable species | 2,000+ varieties | N/A | ACHIEVES practical maximum |
 | **Knowledge Sharing** | Complete transparency | Open-source + blockchain | N/A | ACHIEVES theoretical optimum |
@@ -2023,7 +2023,7 @@ Within the stated constraints (biological growth cycles, capital requirements, l
 
 1. **Quality control across distributed network**: Implement automated monitoring + peer review + quarterly audits from Day 1
 2. **Financial sustainability with ACCESS pricing**: Ensure commercial tier (20% minimum) subsidizes community access; monitor tier distribution quarterly
-3. **Climate adaptation capacity**: Begin genetic diversity expansion and adaptation trials immediately; don't wait for climate impacts
+3. **Climate adaptation capacity**: Begin genetic diversity expansion and adaptation trials immediately; don't wait for climate effects
 4. **Genetic library maintenance**: Launch community stewardship recruitment in Month 6; establish blockchain verification by Month 9
 
 **Measurement & Continuous Improvement:**

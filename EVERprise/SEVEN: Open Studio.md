@@ -446,7 +446,7 @@ Flexible deployment: standalone operation | networked collaboration | enterprise
 49. Woodturning tools with diamond inserts
 50. Metal spinning tools
 
-**Sustainability Impact**:
+**Sustainability effect**:
 - Tool lifespan extension: 10-50× depending on application
 - Energy efficiency: 20-40% reduction through better heat management
 - Waste reduction: 95% fewer tool replacements
@@ -592,7 +592,7 @@ Flexible deployment: standalone operation | networked collaboration | enterprise
   - Inclusive design (wheelchair accessibility, adaptive tools)
   - Diverse hiring and leadership practices
   - Mental health and well-being support
-- **Verification**: Social impact assessment, member demographics, satisfaction surveys
+- **Verification**: Social effect assessment, member demographics, satisfaction surveys
 - **Status Target**: 100% compliance from Day 1
 
 **Pillar 6: Economic Sustainability**
@@ -625,7 +625,7 @@ Flexible deployment: standalone operation | networked collaboration | enterprise
 
 **Sustainability Audit Schedule**:
 - Monthly: Energy, water, waste tracking
-- Quarterly: Material sourcing review, social impact assessment
+- Quarterly: Material sourcing review, social effect assessment
 - Annually: Comprehensive 7-pillar audit, third-party verification
 - Certification: ISO 14001 (Environmental), B-Corp, LEED (facility)
 
@@ -816,7 +816,7 @@ contract E7_OpenStudio {
 
 **Technical Risks**:
 
-| Risk | Probability | Impact | Mitigation | Monitoring | Response |
+| Risk | Probability | effect | Mitigation | Monitoring | Response |
 |------|-------------|--------|------------|------------|----------|
 | Equipment failure | Medium | High | Preventive maintenance, redundant critical equipment | Usage tracking, vibration sensors | Spare parts inventory, rapid repair protocols |
 | Safety incident | Low | Critical | Comprehensive training, safety systems, PPE | Incident reporting, near-miss tracking | Emergency response plans, investigation protocols |
@@ -826,7 +826,7 @@ contract E7_OpenStudio {
 
 **Market Risks**:
 
-| Risk | Probability | Impact | Mitigation | Monitoring | Response |
+| Risk | Probability | effect | Mitigation | Monitoring | Response |
 |------|-------------|--------|------------|------------|----------|
 | Membership decline | Low | High | Diversified revenue, quality programs, community engagement | Monthly enrollment tracking, satisfaction surveys | Marketing campaigns, program improvements |
 | Competition | Medium | Medium | Unique value proposition, network effects, quality | Competitive analysis, market positioning | Differentiation strategies, partnership development |
@@ -834,7 +834,7 @@ contract E7_OpenStudio {
 
 **Operational Risks**:
 
-| Risk | Probability | Impact | Mitigation | Monitoring | Response |
+| Risk | Probability | effect | Mitigation | Monitoring | Response |
 |------|-------------|--------|------------|------------|----------|
 | Staff turnover | Medium | Medium | Competitive compensation, development opportunities, culture | Satisfaction surveys, retention rates | Succession planning, knowledge documentation |
 | Supply chain disruption | Low | Medium | Diversified suppliers, inventory buffers, local sourcing | Supplier performance, lead times | Alternative sourcing, material substitution |
@@ -842,7 +842,7 @@ contract E7_OpenStudio {
 
 **Environmental Risks**:
 
-| Risk | Probability | Impact | Mitigation | Monitoring | Response |
+| Risk | Probability | effect | Mitigation | Monitoring | Response |
 |------|-------------|--------|------------|------------|----------|
 | Climate events | Low | High | Resilient facility design, insurance, backup systems | Weather monitoring, climate modeling | Emergency procedures, business continuity |
 | Resource scarcity | Low | Medium | Closed-loop systems, efficiency, alternative materials | Resource consumption, supply availability | Conservation measures, material substitution |
@@ -869,7 +869,7 @@ contract E7_OpenStudio {
 **ISO 14001 (Environmental Management)**:
 
 - **Environmental Policy**: Commitment to sustainability and continuous improvement
-- **Aspect/Impact Analysis**: Identification of environmental impacts and mitigation
+- **Aspect/effect Analysis**: Identification of environmental effects and mitigation
 - **Objectives/Targets**: Measurable goals for resource reduction and efficiency
 - **Monitoring**: Energy, water, waste tracking and reporting
 - **Compliance**: Regulatory requirements and voluntary standards
@@ -1094,7 +1094,7 @@ contract E7_OpenStudio {
 | Regional | 2,000 | 10,000 | $3.6M | $1.51M | ISO 9001, 14001, 45001 | 25 |
 | National | 5,000 | 20,000 | $7.2M | $1.73M | All + B-Corp | 60 |
 
-**Network-Wide Impact (Year 5, National Scale)**:
+**Network-Wide effect (Year 5, National Scale)**:
 - Total members across network: 5,000+
 - Total projects completed: 100,000+
 - Total businesses incubated: 60+

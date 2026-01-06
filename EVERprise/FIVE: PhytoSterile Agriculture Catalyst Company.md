@@ -925,19 +925,19 @@ Confirm 100% achievability across all 7 Pillars (detailed in Phase 4).
 - Member pledges: $1.0M (45 members × $22K average)
 - Crowdfunding: $500K (Kickstarter/Indiegogo campaign)
 - Grants: $500K (USDA, EPA, state agriculture grants)
-- Impact investors: $500K (patient capital, aligned with EFE principles)
+- effect investors: $500K (patient capital, aligned with EFE principles)
 
 **Phase 2: Local (Months 7-18) - $6.0M additional**
 - Member pledges: $2.0M (increased membership, higher pledges)
 - Revenue reinvestment: $1.5M (from prototype operations)
 - Green bonds: $1.5M (community investment)
-- Impact investors: $1.0M (follow-on investment)
+- effect investors: $1.0M (follow-on investment)
 
 **Phase 3: Regional (Months 19-36) - $17.6M additional**
 - Member pledges: $5.0M (expanded membership)
 - Revenue reinvestment: $5.0M (from local operations)
 - Green bonds: $4.0M (larger community offering)
-- Impact investors: $2.0M (growth capital)
+- effect investors: $2.0M (growth capital)
 - Carbon credit pre-sales: $1.6M (forward contracts)
 
 **Total Funding:** $26.1M (achieved by Month 36)
@@ -1024,7 +1024,7 @@ graph TD
 **TO All Enterprises (Carbon Credits):**
 - Carbon sequestration: 100 tons CO₂e/month
 - Carbon credits: $20K/month
-- Benefits: Shared treasury increase, climate impact, regulatory compliance
+- Benefits: Shared treasury increase, climate effect, regulatory compliance
 - Distribution: Equidistributed to all EVER network members
 
 **6.4 Synergy Quantification**
@@ -1217,7 +1217,7 @@ contract MaterialExchange {
 
 **8.1 Risk Matrix**
 
-| Risk | Probability | Impact | Mitigation | Contingency |
+| Risk | Probability | effect | Mitigation | Contingency |
 |------|-------------|--------|------------|-------------|
 | HTC reactor failure | Low | High | Redundant reactors, preventive maintenance | Spare reactor, repair contract |
 | Feedstock shortage | Medium | Medium | Diversified sources, inventory buffer | External waste purchase, reduce production |
@@ -1528,7 +1528,7 @@ The complete Enterprise Plan FIVE document should be structured as follows:
    - Week-by-week launch protocol (Month 6 detailed)
 
 9. **Risk Management & Quality Assurance** (400 lines)
-   - Risk matrix (risks, probability, impact, mitigation, contingency)
+   - Risk matrix (risks, probability, effect, mitigation, contingency)
    - Quality management system (ISO 9001, testing protocols, process control)
    - Technology stack (hardware, software, automation)
    - Continuous improvement (Kaizen, Six Sigma, innovation pipeline)

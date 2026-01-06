@@ -39,7 +39,7 @@ TABLE OF CONTENTS
 Enterprise 9 establishes the definitive global standard for sustainable human shelter and living environments — creating modular homes, furniture, decor, and landscape elements that are 100% sustainable, regenerative, durable, beautiful, and accessible to all humanity through equidistributed implementation.
 1.2 Core Achievement
 Dimension	Achievement
-Sustainability	100% renewable/recyclable materials, zero waste, regenerative impact
+Sustainability	100% renewable/recyclable materials, zero waste, regenerative effect
 Durability	100+ year building lifespan, 25+ year furniture lifespan
 Accessibility	Scalable from $15K micro-dwelling to custom estates
 Scalability	Single prototype → community → regional → global deployment
@@ -51,7 +51,7 @@ Housing Production (Regional Hub)	240+ units/year
 Furniture Production (Regional Hub)	12,000+ units/year
 Material Circularity	100%
 Energy Self-Sufficiency	100% renewable
-Carbon Impact	Net negative (sequestering)
+Carbon effect	Net negative (sequestering)
 Job Creation (Regional Hub)	300+ direct, 1,000+ indirect
 Global Replication Potential	Unlimited (open-source)
 1.4 OPTIBEST Certification
@@ -110,7 +110,7 @@ Repairability	Self-repair capability	80%+ repairs owner-executable
 Scalability	Global hub capacity	Unlimited (open-source)
 Quality	Defect rate	<0.1%
 User Satisfaction	Net Promoter Score	>80
-Carbon Impact	Lifecycle CO2	Net negative
+Carbon effect	Lifecycle CO2	Net negative
 Circularity	End-of-life recovery	100%
 2.4 Optimal Definition
 
@@ -310,7 +310,7 @@ DESIGN LIFE: 100+ years (structure), 50+ years (envelope)
 WARRANTY: 25 years structural, 10 years systems
 
 ASSEMBLY: 2-3 days with 3-person crew
-TOOLS REQUIRED: Standard hand tools + impact driver
+TOOLS REQUIRED: Standard hand tools + effect driver
 SKILL LEVEL: Intermediate (training available)
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -793,7 +793,7 @@ PROPERTIES (CURED - 28 DAYS):
 ├── Acoustic: Excellent absorption (NRC 0.5-0.7)
 └── pH: High initially (pest resistant), neutralizes over time
 
-CARBON IMPACT:
+CARBON effect:
 ├── Hemp Growing: -1.5 to -2.0 tonnes CO2/tonne
 ├── Lime Production: +0.5 to +0.8 tonnes CO2/tonne
 ├── Net Result: CARBON NEGATIVE (-0.5 to -1.0 tonnes CO2/m³)
@@ -839,7 +839,7 @@ MATERIAL SUBSTITUTION DECISION TREE
 4. CAN MATERIAL BE CULTIVATED/PRODUCED LOCALLY?
    ├── YES → Initiate local production program
    │         Use temporary substitute until available
-   └── NO → Import primary material (document transport impact)
+   └── NO → Import primary material (document transport effect)
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -1554,7 +1554,7 @@ DETECTION:
 CLASSIFICATION:
 ├── Critical: Safety issue, complete failure
 ├── Major: Function impaired, appearance affected
-├── Minor: Cosmetic, no function impact
+├── Minor: Cosmetic, no function effect
 └── Observation: Improvement opportunity
 
 RESPONSE:
@@ -1897,7 +1897,7 @@ THE 7 QUALITY PILLARS:
    Design enhances life, not just functions.
    Elegance is simplicity perfected.
 
-7. REGENERATIVE IMPACT
+7. REGENERATIVE effect
    Products improve environmental and social conditions.
    Carbon-negative, community-positive.
    Net benefit to all stakeholders.
@@ -2078,7 +2078,7 @@ MOISTURE TESTING:
 
 ACOUSTIC TESTING:
 ├── Airborne: ISO 10140 (laboratory)
-├── Impact: ISO 10140 (laboratory)
+├── effect: ISO 10140 (laboratory)
 ├── Field Verification: ISO 16283
 └── Criteria: STC 50+ wall, IIC 55+ floor
 
@@ -2098,7 +2098,7 @@ DURABILITY TESTING:
 │ Table      │ Edge Load         │ 5,000     │ No failure  │
 │ Storage    │ Door Cycles       │ 50,000    │ Functional  │
 │ Storage    │ Drawer Cycles     │ 50,000    │ Functional  │
-│ Bed        │ Mattress Impact   │ 10,000    │ No failure  │
+│ Bed        │ Mattress effect   │ 10,000    │ No failure  │
 │ All        │ Joint Integrity   │ Annual    │ No loosening│
 └───────────────────────────────────────────────────────────┘
 
@@ -2405,7 +2405,7 @@ SUCCESS CRITERIA:
 ├── Hub replication proven
 ├── Innovation pipeline established
 ├── Circular economy functional
-└── Positive environmental impact measured
+└── Positive environmental effect measured
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -2449,7 +2449,7 @@ OBJECTIVES:
 ├── Universal access to designs
 ├── Continuous innovation
 ├── Systemic industry transformation
-└── Regenerative impact at scale
+└── Regenerative effect at scale
 
 REQUIREMENTS:
 ├── Facility: 20+ regional hubs globally
@@ -2463,7 +2463,7 @@ OUTPUTS:
 ├── 100,000+ furniture units/year (global network)
 ├── Global open-source knowledge base
 ├── Continuous innovation stream
-├── Measurable planetary positive impact
+├── Measurable planetary positive effect
 └── Industry transformation achieved
 
 SUCCESS CRITERIA:
@@ -2471,7 +2471,7 @@ SUCCESS CRITERIA:
 ├── Sustainable building mainstream
 ├── Material circularity normal
 ├── Enterprise model replicated
-└── Regenerative impact measurable
+└── Regenerative effect measurable
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -4191,7 +4191,7 @@ MONTH 1-2: ORGANIZATION
 │   └── Deliverable: Leadership team in place
 └── Initial Funding
     ├── Seed round: $2M
-    ├── Sources: Enterprise network, impact investors, grants
+    ├── Sources: Enterprise network, effect investors, grants
     └── Deliverable: Operating capital secured
 
 MONTH 3-4: PLANNING
@@ -4224,7 +4224,7 @@ MONTH 5-6: DEVELOPMENT PREPARATION
 │   └── Deliverable: Design package for permitting
 ├── Funding Round 1
 │   ├── Amount: $8M (Phase 1)
-│   ├── Sources: Development finance, impact investors
+│   ├── Sources: Development finance, effect investors
 │   └── Deliverable: Construction capital committed
 └── Regulatory Preparation
     ├── Building permits
@@ -5003,10 +5003,10 @@ ENTERPRISE 9 RISK REGISTER
 
 RISK ASSESSMENT MATRIX:
 
-IMPACT:     1-Minimal  2-Minor  3-Moderate  4-Major  5-Severe
+effect:     1-Minimal  2-Minor  3-Moderate  4-Major  5-Severe
 LIKELIHOOD: 1-Rare     2-Unlikely 3-Possible 4-Likely 5-Almost Certain
 
-RISK SCORE = Impact × Likelihood
+RISK SCORE = effect × Likelihood
 HIGH: 15-25  MEDIUM: 8-14  LOW: 1-7
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -5015,21 +5015,21 @@ STRATEGIC RISKS:
 
 R1: FUNDING SHORTFALL
 ├── Description: Unable to secure required capital
-├── Impact: 5 (Severe — project cannot proceed)
+├── effect: 5 (Severe — project cannot proceed)
 ├── Likelihood: 2 (Unlikely — multiple sources)
 ├── Score: 10 (MEDIUM)
 ├── Mitigation:
 │   ├── Diversified funding sources
 │   ├── Phased investment requirements
 │   ├── Revenue from prototype phase
-│   └── Impact investor focus (mission alignment)
+│   └── effect investor focus (mission alignment)
 ├── Trigger: <80% funding by target date
 ├── Response: Extend timeline, reduce scope, find alternatives
 └── Owner: Finance Lead
 
 R2: MARKET DEMAND INSUFFICIENT
 ├── Description: Market does not accept products at volume/price
-├── Impact: 4 (Major — viability threatened)
+├── effect: 4 (Major — viability threatened)
 ├── Likelihood: 2 (Unlikely — validated concept)
 ├── Score: 8 (MEDIUM)
 ├── Mitigation:
@@ -5043,7 +5043,7 @@ R2: MARKET DEMAND INSUFFICIENT
 
 R3: REGULATORY BARRIERS
 ├── Description: Building codes, permits prevent/delay operation
-├── Impact: 4 (Major — cannot sell products)
+├── effect: 4 (Major — cannot sell products)
 ├── Likelihood: 3 (Possible — novel materials)
 ├── Score: 12 (MEDIUM)
 ├── Mitigation:
@@ -5061,7 +5061,7 @@ OPERATIONAL RISKS:
 
 R4: MATERIAL SUPPLY DISRUPTION
 ├── Description: Key materials unavailable or price spike
-├── Impact: 4 (Major — production stops)
+├── effect: 4 (Major — production stops)
 ├── Likelihood: 3 (Possible — concentrated supply)
 ├── Score: 12 (MEDIUM)
 ├── Mitigation:
@@ -5076,7 +5076,7 @@ R4: MATERIAL SUPPLY DISRUPTION
 
 R5: EQUIPMENT FAILURE
 ├── Description: Critical equipment breakdown stops production
-├── Impact: 3 (Moderate — temporary shutdown)
+├── effect: 3 (Moderate — temporary shutdown)
 ├── Likelihood: 3 (Possible — complex equipment)
 ├── Score: 9 (MEDIUM)
 ├── Mitigation:
@@ -5091,7 +5091,7 @@ R5: EQUIPMENT FAILURE
 
 R6: QUALITY FAILURE
 ├── Description: Significant quality issue in field
-├── Impact: 4 (Major — reputation, liability)
+├── effect: 4 (Major — reputation, liability)
 ├── Likelihood: 2 (Unlikely — robust QC)
 ├── Score: 8 (MEDIUM)
 ├── Mitigation:
@@ -5106,7 +5106,7 @@ R6: QUALITY FAILURE
 
 R7: SKILLED LABOR SHORTAGE
 ├── Description: Cannot recruit/retain skilled craftspeople
-├── Impact: 3 (Moderate — capacity limitation)
+├── effect: 3 (Moderate — capacity limitation)
 ├── Likelihood: 3 (Possible — specialized skills)
 ├── Score: 9 (MEDIUM)
 ├── Mitigation:
@@ -5125,7 +5125,7 @@ EXTERNAL RISKS:
 
 R8: ECONOMIC DOWNTURN
 ├── Description: Recession reduces housing/furniture demand
-├── Impact: 4 (Major — revenue decline)
+├── effect: 4 (Major — revenue decline)
 ├── Likelihood: 3 (Possible — economic cycles)
 ├── Score: 12 (MEDIUM)
 ├── Mitigation:
@@ -5140,7 +5140,7 @@ R8: ECONOMIC DOWNTURN
 
 R9: COMPETITIVE PRESSURE
 ├── Description: Competitors undercut on price or quality
-├── Impact: 3 (Moderate — margin pressure)
+├── effect: 3 (Moderate — margin pressure)
 ├── Likelihood: 3 (Possible — attractive market)
 ├── Score: 9 (MEDIUM)
 ├── Mitigation:
@@ -5155,7 +5155,7 @@ R9: COMPETITIVE PRESSURE
 
 R10: CLIMATE/NATURAL DISASTER
 ├── Description: Facility damage from weather, earthquake, fire
-├── Impact: 5 (Severe — major asset loss)
+├── effect: 5 (Severe — major asset loss)
 ├── Likelihood: 2 (Unlikely — site selection)
 ├── Score: 10 (MEDIUM)
 ├── Mitigation:
@@ -5497,11 +5497,11 @@ CERTIFICATION: ENTERPRISE 9 MEETS ALL EFE SUSTAINABILITY REQUIREMENTS
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-14.2 Carbon Impact Verification
+14.2 Carbon effect Verification
 
 text
 
-CARBON IMPACT ASSESSMENT
+CARBON effect ASSESSMENT
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 TARGET: Net Carbon Negative
@@ -5533,7 +5533,7 @@ SAPLING MODULE (53 m² housing):
 ├───────────────────────────────────────────────────────────┤
 │ LIFECYCLE TOTAL      │ +4,990 kg     │ -9,900 kg         │
 ├───────────────────────────────────────────────────────────┤
-│ NET IMPACT           │   -4,910 kg CO2e (CARBON NEGATIVE)│
+│ NET effect           │   -4,910 kg CO2e (CARBON NEGATIVE)│
 └───────────────────────────────────────────────────────────┘
 
 Per m²: -93 kg CO2e (vs conventional: +400 to +600 kg CO2e)
@@ -5557,14 +5557,14 @@ GROVE CHAIR:
 ├───────────────────────────────────────────────────────────┤
 │ LIFECYCLE TOTAL      │ +4.4 kg       │ -10.3 kg          │
 ├───────────────────────────────────────────────────────────┤
-│ NET IMPACT           │   -5.9 kg CO2e (CARBON NEGATIVE)  │
+│ NET effect           │   -5.9 kg CO2e (CARBON NEGATIVE)  │
 └───────────────────────────────────────────────────────────┘
 
 vs conventional chair: +15 to +40 kg CO2e
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-ANNUAL ENTERPRISE CARBON IMPACT (Year 3 — Full Production):
+ANNUAL ENTERPRISE CARBON effect (Year 3 — Full Production):
 
 Production:
 ├── Housing (190 units): -933,000 kg CO2e
@@ -5581,7 +5581,7 @@ Operations:
 └── Subtotal Operations: +45,000 kg CO2e
 
 ┌───────────────────────────────────────────────────────────┐
-│ ANNUAL NET IMPACT    │ -987,000 kg CO2e                  │
+│ ANNUAL NET effect    │ -987,000 kg CO2e                  │
 │                      │ (Nearly 1,000 tonnes NEGATIVE)    │
 └───────────────────────────────────────────────────────────┘
 
@@ -5592,7 +5592,7 @@ VERIFICATION:
 ├── Uncertainty: ±15% (conservative)
 └── Reporting: Annual carbon report published
 
-CARBON IMPACT STATUS: ✓ VERIFIED CARBON NEGATIVE
+CARBON effect STATUS: ✓ VERIFIED CARBON NEGATIVE
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -5731,7 +5731,7 @@ Gap Analysis:
 │ DIMENSION       │ THEORETICAL │ ACHIEVED │ GAP CAUSE     │
 ├───────────────────────────────────────────────────────────┤
 │ Sustainability  │ 100%        │ 100%     │ None          │
-│ Carbon Impact   │ Maximum neg │ -987t/yr │ Material limits│
+│ Carbon effect   │ Maximum neg │ -987t/yr │ Material limits│
 │ Durability      │ Permanent   │ 100+ yrs │ Physics       │
 │ Accessibility   │ Free        │ $200/m²  │ Resource cost │
 │ Quality         │ Perfect     │ <0.1% def│ Human factors │
@@ -6037,7 +6037,7 @@ Gantry Cranes:
 Pneumatic Tools:
 ├── Nail Guns: 20 units
 ├── Staplers: 10 units
-├── Impact Wrenches: 15 units
+├── effect Wrenches: 15 units
 ├── Sanders: 10 units
 └── Cost: $50,000 total
 
@@ -6085,7 +6085,7 @@ Materials Lab:
 Furniture Testing:
 ├── Fatigue Tester: $65,000
 ├── Load Frames: 2 units, $40,000
-├── Impact Tester: $25,000
+├── effect Tester: $25,000
 └── Total: $130,000
 
 Building Performance:
@@ -6321,7 +6321,7 @@ ENVIRONMENTAL:
 │ Waste                 │ Zero landfill, full circularity  │
 │ Hazardous Materials   │ None used in products/processes  │
 │ Noise                 │ Within limits, neighbor buffer   │
-│ Environmental Impact  │ EIA as required, net positive    │
+│ Environmental effect  │ EIA as required, net positive    │
 └───────────────────────────────────────────────────────────┘
 
 LABOR & EMPLOYMENT:
@@ -6357,7 +6357,7 @@ CERTIFICATIONS TIMELINE:
 │ Product Testing       │ Month 18    │ Furniture standards│
 │ Building Certification│ Month 24    │ Housing products   │
 │ Carbon Verification   │ Month 30    │ Carbon negative    │
-│ B Corp (Optional)     │ Month 36    │ Overall impact     │
+│ B Corp (Optional)     │ Month 36    │ Overall effect     │
 └───────────────────────────────────────────────────────────┘
 
 REGULATORY ENGAGEMENT STRATEGY:
@@ -6633,13 +6633,13 @@ OPTIMISTIC (+20% Revenue):
 └── Accelerated hub replication possible
 
 MATERIAL COST +15%:
-├── Impact on Margin: -6%
+├── effect on Margin: -6%
 ├── Year 5 Net Income: $5.8M
 ├── Mitigation: Pricing adjustment, efficiency
 └── Viable with management action
 
 LABOR COST +15%:
-├── Impact on Margin: -4%
+├── effect on Margin: -4%
 ├── Year 5 Net Income: $6.4M
 ├── Mitigation: Productivity improvement
 └── Viable with management action
@@ -7293,7 +7293,7 @@ MAJOR ENHANCEMENTS:
 
 CRITICAL INSIGHTS:
 ├── Hub-and-spoke model optimal for sustainability + scale
-├── Open-source approach maximizes global impact
+├── Open-source approach maximizes global effect
 ├── Craft-centered organization attracts/retains talent
 ├── Equidistributed profit model aligns all stakeholders
 └── Material passport system enables true circularity
@@ -7503,7 +7503,7 @@ Key Metrics:
     Employees: 350 (regional hub)
     Revenue: $26.5M (Year 5)
     Net Margin: 31% (Year 5)
-    Carbon Impact: Net negative (-987 tonnes CO2e/year)
+    Carbon effect: Net negative (-987 tonnes CO2e/year)
     Material Circularity: 100%
 
 OPTIBEST Certification:

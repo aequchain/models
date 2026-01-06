@@ -1258,7 +1258,7 @@ def climate_control():
 - Alternative economic models
 - Value accounting methods
 - Cooperative finance
-- Impact measurement
+- effect measurement
 - Hands-on: Develop economic model
 
 **Module 5.3: Bioregional Planning (30 points)**
@@ -1920,7 +1920,7 @@ def climate_control():
 
 **Social Return on Investment (SROI)**
 
-| Impact Category | Monetized Value (Annual) |
+| effect Category | Monetized Value (Annual) |
 |-----------------|--------------------------|
 | **Food Security** | $2,400,000 (6,000 members × $400 food cost savings) |
 | **Education** | $1,200,000 (4,000 participants × $300 value) |
@@ -2149,7 +2149,7 @@ Individual_Share = (Individual_Contribution_Score / Total_Network_Contribution_S
 - Genetic diversity preserved across wider geography
 - Climate adaptation knowledge shared across regions
 - Bioregional food systems emerge from connected local systems
-- Cumulative environmental impact (carbon, water, biodiversity) scales
+- Cumulative environmental effect (carbon, water, biodiversity) scales
 
 **Quantified Network Value**
 
@@ -2174,7 +2174,7 @@ Where network effect multiplier captures non-linear value growth from knowledge,
 
 **Production Risks**
 
-| Risk | Probability | Impact | Mitigation Strategy |
+| Risk | Probability | effect | Mitigation Strategy |
 |------|-------------|--------|---------------------|
 | **Crop failure (disease)** | Medium | High | Genetic diversity (2,500+ varieties), biosecurity protocols, resistant varieties |
 | **Crop failure (weather)** | Medium | High | Season extension (greenhouses), irrigation, diverse crops, insurance |
@@ -2184,7 +2184,7 @@ Where network effect multiplier captures non-linear value growth from knowledge,
 
 **Financial Risks**
 
-| Risk | Probability | Impact | Mitigation Strategy |
+| Risk | Probability | effect | Mitigation Strategy |
 |------|-------------|--------|---------------------|
 | **Revenue shortfall** | Medium | Medium | Diversified revenue streams, reserve fund (6 months), flexible pricing |
 | **Cost overruns** | Medium | Medium | Detailed budgeting, contingency (15%), phased investment |
@@ -2193,7 +2193,7 @@ Where network effect multiplier captures non-linear value growth from knowledge,
 
 **Operational Risks**
 
-| Risk | Probability | Impact | Mitigation Strategy |
+| Risk | Probability | effect | Mitigation Strategy |
 |------|-------------|--------|---------------------|
 | **Staff turnover** | Medium | Medium | Competitive compensation, training, succession planning, documentation |
 | **Equipment failure** | Medium | Low | Preventive maintenance, redundancy, repair capacity, warranties |
@@ -2202,7 +2202,7 @@ Where network effect multiplier captures non-linear value growth from knowledge,
 
 **Governance Risks**
 
-| Risk | Probability | Impact | Mitigation Strategy |
+| Risk | Probability | effect | Mitigation Strategy |
 |------|-------------|--------|---------------------|
 | **Conflict/disputes** | Medium | Medium | Clear policies, mediation process, transparent decision-making |
 | **Governance capture** | Low | High | Distributed power, term limits, accountability mechanisms |
@@ -2210,7 +2210,7 @@ Where network effect multiplier captures non-linear value growth from knowledge,
 
 **External Risks**
 
-| Risk | Probability | Impact | Mitigation Strategy |
+| Risk | Probability | effect | Mitigation Strategy |
 |------|-------------|--------|---------------------|
 | **Regulatory changes** | Low | Medium | Proactive compliance, advocacy, legal reserves, flexibility |
 | **Climate change** | High | High | Adaptation strategies, resilient design, diverse crops, insurance |
@@ -2315,9 +2315,9 @@ Where network effect multiplier captures non-linear value growth from knowledge,
 
 ---
 
-### **PHASE 7: ENVIRONMENTAL IMPACT & REGENERATION**
+### **PHASE 7: ENVIRONMENTAL effect & REGENERATION**
 
-#### **7.1 Carbon Sequestration & Climate Impact**
+#### **7.1 Carbon Sequestration & Climate effect**
 
 **Carbon Sequestration Pathways**
 
@@ -2339,10 +2339,10 @@ Where network effect multiplier captures non-linear value growth from knowledge,
 - Network total: 200-400 tons CO₂e/year
 - Calculation: Lifecycle assessment vs. conventional system
 
-**Total Carbon Impact**
+**Total Carbon effect**
 - Sequestration: 1,000-1,800 tons CO₂e/year
 - Avoided emissions: 200-400 tons CO₂e/year
-- **Net impact**: 1,200-2,200 tons CO₂e/year (negative)
+- **Net effect**: 1,200-2,200 tons CO₂e/year (negative)
 - **Equivalent**: Removing 260-480 cars from roads
 
 **Carbon Credit Monetization**
@@ -2476,7 +2476,7 @@ Where network effect multiplier captures non-linear value growth from knowledge,
 
 ---
 
-### **PHASE 8: SOCIAL IMPACT & COMMUNITY DEVELOPMENT**
+### **PHASE 8: SOCIAL effect & COMMUNITY DEVELOPMENT**
 
 #### **8.1 Food Security & Sovereignty**
 
@@ -2513,7 +2513,7 @@ Where network effect multiplier captures non-linear value growth from knowledge,
 
 #### **8.2 Education & Capacity Building**
 
-**Educational Impact**
+**Educational effect**
 
 **Participation Metrics**
 - Workshop attendance: 4,000 participants/year
@@ -2589,7 +2589,7 @@ Where network effect multiplier captures non-linear value growth from knowledge,
 - Employment: 228 jobs (full-time, part-time, seasonal)
 - Wages: $15,000-45,000/year (depending on role, hours)
 - Value distribution: $1,481,250/year (equidistributed via aequchain)
-- Total economic impact: $5.2M/year (including social value)
+- Total economic effect: $5.2M/year (including social value)
 
 **Cost Savings**
 - Food costs: $400/person/year savings (vs. grocery store)
@@ -2640,7 +2640,7 @@ Where network effect multiplier captures non-linear value growth from knowledge,
 - Frequency: 200+ events/year (network-wide)
 - Attendance: 15,000+ participant-events/year
 - Types: Workshops, potlucks, celebrations, work parties, festivals
-- Impact: Strengthen relationships, share knowledge, celebrate culture
+- effect: Strengthen relationships, share knowledge, celebrate culture
 
 **Conflict Resolution**
 - Disputes: 20-30/year (typical for 6,000 members)
@@ -2817,7 +2817,7 @@ Where network effect multiplier captures non-linear value growth from knowledge,
 **Performance Transparency**
 - Metrics dashboard: Key performance indicators (KPIs) visible to all
 - Goal tracking: Progress toward strategic objectives
-- Impact reporting: Social, environmental, economic outcomes
+- effect reporting: Social, environmental, economic outcomes
 - Member feedback: Surveys, suggestion box, open forums
 
 **Accountability Mechanisms**
@@ -2831,7 +2831,7 @@ Where network effect multiplier captures non-linear value growth from knowledge,
 **Audits**
 - Financial: Annual audit by independent CPA
 - Operational: Biennial audit of practices, compliance
-- Social: Annual impact assessment (SROI)
+- Social: Annual effect assessment (SROI)
 - Environmental: Annual sustainability audit
 
 **Conflict of Interest**
@@ -3061,7 +3061,7 @@ graph LR
 - Benefits: Standardized processes, continuous improvement, customer satisfaction
 
 **ISO 14001: Environmental Management**
-- Scope: Environmental impacts (carbon, water, waste, biodiversity)
+- Scope: Environmental effects (carbon, water, waste, biodiversity)
 - Certification: Pursue certification (Year 2)
 - Benefits: Systematic environmental management, compliance, reputation
 
@@ -3257,7 +3257,7 @@ graph LR
 - Environmental groups: Conservation partnerships, advocacy
 - Community development: Neighborhood revitalization, social services
 - Health organizations: Nutrition education, chronic disease prevention
-- Benefits: Mission alignment, resource sharing, collective impact
+- Benefits: Mission alignment, resource sharing, collective effect
 
 **Private Sector**
 - Restaurants: Direct sales, farm-to-table partnerships

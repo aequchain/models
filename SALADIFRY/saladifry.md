@@ -81,7 +81,7 @@ OPTIBEST for this purpose means:
     Maximum customer value per unit cost
     Minimum external dependency
     Maximum replicability
-    Zero negative environmental impact
+    Zero negative environmental effect
 
 3. CORE CONCEPT
 3.1 The SALADIFRY Model
@@ -3414,7 +3414,7 @@ COMPLETE PROTEIN OFFERING
 │  │  BEEF           │ 26g/100g│ • Grass-fed/grass-finished required        │ │
 │  │  (Grilled,      │         │ • Pasture-raised                           │ │
 │  │   Shredded)     │         │ • Local/regional sourcing                  │ │
-│  │                 │         │ • Limited offering (environmental impact)  │ │
+│  │                 │         │ • Limited offering (environmental effect)  │ │
 │  ├─────────────────┼─────────┼────────────────────────────────────────────┤ │
 │  │  TUNA           │ 30g/100g│ • Pole-caught or FAD-free required         │ │
 │  │  (Canned,       │         │ • Skipjack or Albacore (lower mercury)     │ │
@@ -3438,7 +3438,7 @@ COMPLETE PROTEIN OFFERING
 │  │  ├─ Plant protein: 80-120g                                             │ │
 │  │  ├─ Eggs: 2 (boiled) or equivalent scrambled                           │ │
 │  │  ├─ Chicken: 80-100g                                                   │ │
-│  │  ├─ Beef: 60-80g (limited due to environmental impact)                 │ │
+│  │  ├─ Beef: 60-80g (limited due to environmental effect)                 │ │
 │  │  ├─ Fish: 80-100g                                                      │ │
 │  │  └─ Seeds/Nuts: 20-30g (as topping)                                    │ │
 │  │                                                                        │ │
@@ -4552,7 +4552,7 @@ ELEGANCE           │ ✓ PASS  │ Unified philosophy throughout
 ───────────────────┼─────────┼─────────────────────────────────────────────────
 SYNERGY            │ ✓ PASS  │ Staff-resident model creates ownership
                    │         │ Farming-restaurant integration reduces cost
-                   │         │ Housing-work proximity reduces commute impact
+                   │         │ Housing-work proximity reduces commute effect
                    │         │ Community-food-sustainability creates value
                    │         │ Whole exceeds sum of parts
 
@@ -4632,7 +4632,7 @@ METHOD 4: Theoretical Limit Comparison
 ─────────────────────────────────────────────
 Theoretical Optimum Defined:
   100% self-sufficient, zero cost, instant deployment, perfect nutrition,
-  zero environmental impact, maximum staff wellbeing
+  zero environmental effect, maximum staff wellbeing
 
 Current Performance vs. Optimum:
   │ Aspect                 │ Theoretical │ SALADIFRY    │ Gap Analysis        │
@@ -4649,7 +4649,7 @@ Current Performance vs. Optimum:
   │                        │             │              │ growing cycles:     │
   │                        │             │              │ immutable           │
   ├────────────────────────┼─────────────┼──────────────┼─────────────────────┤
-  │ Environmental impact   │ Negative    │ Net-zero to  │ Approaching optimum │
+  │ Environmental effect   │ Negative    │ Net-zero to  │ Approaching optimum │
   │                        │ (regenerative)│ positive   │ within constraints  │
   ├────────────────────────┼─────────────┼──────────────┼─────────────────────┤
   │ Nutrition              │ Complete    │ Complete     │ At optimum          │
@@ -5101,7 +5101,7 @@ EQUIPMENT SPECIFICATION: COMMERCIAL BLENDER
 │  │  Energy efficiency        │ Energy Star or equivalent                  │ │
 │  │  Repairability            │ Spare parts available ≥10 years            │ │
 │  │  End-of-life              │ Recyclable components                      │ │
-│  │  Manufacturing            │ Low-impact or verified supply chain        │ │
+│  │  Manufacturing            │ Low-effect or verified supply chain        │ │
 │  └────────────────────────────────────────────────────────────────────────┘ │
 │                                                                              │
 │  RECOMMENDED MODELS:                                                         │

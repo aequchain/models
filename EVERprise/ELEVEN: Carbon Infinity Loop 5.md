@@ -279,7 +279,7 @@ ZONE 1: CARBON SOURCE LIBERATION
 │ Convention: CVD requires fossil-derived methane                             │
 │ Liberation: Atmospheric CO₂ + organic waste → bio-methane → CVD            │
 │ Innovation: Carbon-negative feedstock that improves with use               │
-│ Impact: Transforms liability (waste) into asset (diamonds)                 │
+│ effect: Transforms liability (waste) into asset (diamonds)                 │
 └─────────────────────────────────────────────────────────────────────────────┘
 
 ZONE 2: PRODUCTION MODEL LIBERATION
@@ -287,7 +287,7 @@ ZONE 2: PRODUCTION MODEL LIBERATION
 │ Convention: Large centralized facilities for economy of scale              │
 │ Liberation: Modular units scalable 1:100,000 without redesign              │
 │ Innovation: Same core design works from single reactor to global network   │
-│ Impact: Local production, global consistency, minimal transport            │
+│ effect: Local production, global consistency, minimal transport            │
 └─────────────────────────────────────────────────────────────────────────────┘
 
 ZONE 3: APPLICATION LIBERATION
@@ -295,7 +295,7 @@ ZONE 3: APPLICATION LIBERATION
 │ Convention: Diamonds for jewelry, graphene for research                    │
 │ Liberation: 247+ applications across all industrial sectors               │
 │ Innovation: Systematic application development for maximum utility         │
-│ Impact: Market size 50x larger than conventional approach                  │
+│ effect: Market size 50x larger than conventional approach                  │
 └─────────────────────────────────────────────────────────────────────────────┘
 
 ZONE 4: CIRCULARITY LIBERATION
@@ -303,7 +303,7 @@ ZONE 4: CIRCULARITY LIBERATION
 │ Convention: Diamonds are forever (permanent, no end-of-life)               │
 │ Liberation: 6-stage cascade → graphene → CVD feedstock → ∞                 │
 │ Innovation: "Forever" means infinite reuse, not permanent disposal         │
-│ Impact: Complete material circularity, zero waste                          │
+│ effect: Complete material circularity, zero waste                          │
 └─────────────────────────────────────────────────────────────────────────────┘
 
 ZONE 5: KNOWLEDGE LIBERATION
@@ -311,7 +311,7 @@ ZONE 5: KNOWLEDGE LIBERATION
 │ Convention: Proprietary processes, trade secrets, patents                  │
 │ Liberation: Open-source protocols, freely implementable                    │
 │ Innovation: Knowledge sharing accelerates global adoption                  │
-│ Impact: Equidistributed access to carbon-negative technology               │
+│ effect: Equidistributed access to carbon-negative technology               │
 └─────────────────────────────────────────────────────────────────────────────┘
 
 ═══════════════════════════════════════════════════════════════════════════════
@@ -488,7 +488,7 @@ NET CARBON BALANCE:
 │  Carbon captured from waste:            +3,800 tons C → +13,933 tons CO₂e  │
 │  Operational emissions:                 -150 tons CO₂e (transport only)    │
 │  ─────────────────────────────────────────────────────────────────────────  │
-│  NET ANNUAL IMPACT:                     -8,400 tons CO₂e/year              │
+│  NET ANNUAL effect:                     -8,400 tons CO₂e/year              │
 │                                                                             │
 │                            ✓ CARBON NEGATIVE                                │
 │                                                                             │
@@ -1531,7 +1531,7 @@ text
 │                                                                             │
 │   ═══════════════════════════════════════════════════════════════════════  │
 │                                                                             │
-│   NET ANNUAL CARBON IMPACT:                                                │
+│   NET ANNUAL CARBON effect:                                                │
 │                                                                             │
 │   Captured:     6,200 + 13,933     = +20,133 t CO₂e                       │
 │   Stored:       6.6 + 1.9 + 9,166  = -9,175 t CO₂e                        │
@@ -2455,7 +2455,7 @@ text
 │   │   │   │ ▓▓  ▓▓▓▓▓  ▓▓▓ │  • Links to blockchain record      │     │  │
 │   │   │   │ ▓▓▓▓▓  ▓▓▓▓▓▓▓ │  • Real-time value estimate        │     │  │
 │   │   │   │ ▓▓▓  ▓▓▓▓  ▓▓▓ │  • Trade-in location finder        │     │  │
-│   │   │   │ ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ │  • Carbon impact display          │     │  │
+│   │   │   │ ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ │  • Carbon effect display          │     │  │
 │   │   │   └─────────────────┘                                     │     │  │
 │   │   │                                                            │     │  │
 │   │   └───────────────────────────────────────────────────────────┘     │  │
@@ -3670,7 +3670,7 @@ text
 │   │   │   ├── Capital: $45B                                        │    │  │
 │   │   │   └── Revenue: $65B/year                                   │    │  │
 │   │   │                                                             │    │  │
-│   │   │   Impact: 0.5% of global carbon removal needed by 2050    │    │  │
+│   │   │   effect: 0.5% of global carbon removal needed by 2050    │    │  │
 │   │   │                                                             │    │  │
 │   │   └────────────────────────────────────────────────────────────┘    │  │
 │   │                                                                      │  │
@@ -3706,7 +3706,7 @@ text
 │   │                                                                      │  │
 │   │   ACTIVITIES:                                                       │  │
 │   │   ├── Site selection and acquisition                               │  │
-│   │   ├── Environmental impact assessment                              │  │
+│   │   ├── Environmental effect assessment                              │  │
 │   │   ├── Permitting and approvals                                     │  │
 │   │   ├── Financing arrangement                                        │  │
 │   │   ├── Key personnel recruitment                                    │  │
@@ -4271,7 +4271,7 @@ text
 │   │   PHASE C: SCALE ACCELERATION (2035-2042)                           │  │
 │   │   ══════════════════════════════════════════                         │  │
 │   │                                                                      │  │
-│   │   Objective: Achieve significant global carbon impact               │  │
+│   │   Objective: Achieve significant global carbon effect               │  │
 │   │                                                                      │  │
 │   │   Deployments:                                                      │  │
 │   │   ├── 10× expansion from Phase B                                   │  │
@@ -4295,7 +4295,7 @@ text
 │   │   PHASE D: GLOBAL INTEGRATION (2042-2050)                           │  │
 │   │   ═══════════════════════════════════════════                        │  │
 │   │                                                                      │  │
-│   │   Objective: Mature global network, significant climate impact      │  │
+│   │   Objective: Mature global network, significant climate effect      │  │
 │   │                                                                      │  │
 │   │   Deployments:                                                      │  │
 │   │   ├── Universal coverage (all climate zones)                       │  │
@@ -4378,7 +4378,7 @@ text
 │   │   TECHNICAL RISKS                                                   │  │
 │   │   ════════════════                                                   │  │
 │   │                                                                      │  │
-│   │   Risk                 Impact   Prob.   Mitigation                  │  │
+│   │   Risk                 effect   Prob.   Mitigation                  │  │
 │   │   ────                 ──────   ─────   ──────────                  │  │
 │   │                                                                      │  │
 │   │   CVD reactor failure  HIGH     MED     • N+2 redundancy            │  │
@@ -4405,7 +4405,7 @@ text
 │   │   MARKET RISKS                                                      │  │
 │   │   ════════════                                                       │  │
 │   │                                                                      │  │
-│   │   Risk                 Impact   Prob.   Mitigation                  │  │
+│   │   Risk                 effect   Prob.   Mitigation                  │  │
 │   │   ────                 ──────   ─────   ──────────                  │  │
 │   │                                                                      │  │
 │   │   Diamond price drop   HIGH     MED     • Diversified applications  │  │
@@ -4433,7 +4433,7 @@ text
 │   │   OPERATIONAL RISKS                                                 │  │
 │   │   ═════════════════                                                  │  │
 │   │                                                                      │  │
-│   │   Risk                 Impact   Prob.   Mitigation                  │  │
+│   │   Risk                 effect   Prob.   Mitigation                  │  │
 │   │   ────                 ──────   ─────   ──────────                  │  │
 │   │                                                                      │  │
 │   │   Workforce shortage   HIGH     MED     • Training academy          │  │
@@ -4462,7 +4462,7 @@ text
 │   │   ENVIRONMENTAL RISKS                                               │  │
 │   │   ═══════════════════                                                │  │
 │   │                                                                      │  │
-│   │   Risk                 Impact   Prob.   Mitigation                  │  │
+│   │   Risk                 effect   Prob.   Mitigation                  │  │
 │   │   ────                 ──────   ─────   ──────────                  │  │
 │   │                                                                      │  │
 │   │   Natural disaster     HIGH     LOW     • Site selection criteria   │  │
@@ -4470,7 +4470,7 @@ text
 │   │                                         • Disaster recovery plan    │  │
 │   │                                         • Distributed network       │  │
 │   │                                                                      │  │
-│   │   Climate change impact MED     HIGH    • Regional adaptation       │  │
+│   │   Climate change effect MED     HIGH    • Regional adaptation       │  │
 │   │                                         • Technology flexibility    │  │
 │   │                                         • Long-term planning        │  │
 │   │                                                                      │  │
@@ -5194,7 +5194,7 @@ text
 ║   │   Community Representative:                                         │  ║
 ║   │   "Employment benefits substantial. Community fund allocation       │  ║
 ║   │    meaningful. Open-source commitment genuine. Environmental        │  ║
-║   │    impact positive."                                                │  ║
+║   │    effect positive."                                                │  ║
 ║   │   → SATISFIED ✓                                                     │  ║
 ║   │                                                                      │  ║
 ║   │   Adversarial Critic:                                               │  ║
@@ -5708,7 +5708,7 @@ text
 │   │   • Expand to 250 facilities                                        │  │
 │   │   • Capture 2,100,000 t CO₂/year                                    │  │
 │   │   • Create 28,000 jobs                                              │  │
-│   │   • Achieve significant climate impact                              │  │
+│   │   • Achieve significant climate effect                              │  │
 │   │                                                                      │  │
 │   │   LONG-TERM (Years 16-25):                                          │  │
 │   │   • Complete global network (600+ facilities)                       │  │

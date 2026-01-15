@@ -11,7 +11,7 @@ PURPOSE CRYSTALLIZATION
 │   while generating equidistributable profit
 ├── Success Criteria: 100% renewable materials, zero waste, 25+ year
 │   product life, profitable, scalable, patent-free
-└── Optimal Definition: Maximum utility with minimum environmental impact
+└── Optimal Definition: Maximum utility with minimum environmental effect
 
 STATUS: OPTIBEST ACHIEVED — CANNOT BE IMPROVED FURTHER WITHIN CURRENT UNDERSTANDING
 ═══════════════════════════════════════════════════════════════════════════════
@@ -116,7 +116,7 @@ Division 2: POWER TOOLS
 Purpose: Produce sustainable, repairable power tools with universal battery platform
 Product Categories
 Category	Products	Annual Production
-Drills & Drivers	Cordless drills, impact drivers, hammer drills	8,000 units
+Drills & Drivers	Cordless drills, effect drivers, hammer drills	8,000 units
 Saws	Circular saws, reciprocating saws, jigsaws, miter saws	6,000 units
 Grinders & Sanders	Angle grinders, orbital sanders, belt sanders	5,000 units
 Routers & Planers	Handheld routers, thickness planers	2,000 units
@@ -167,7 +167,7 @@ text
 │  Configuration: Modular Tool System (MTS)                          │
 │  ├── Base unit (motor, electronics, handle)                        │
 │  ├── Drill head attachment                                         │
-│  ├── Impact driver head attachment                                 │
+│  ├── effect driver head attachment                                 │
 │  ├── Hammer drill head attachment                                  │
 │  └── Right-angle head attachment                                   │
 │                                                                     │
@@ -455,7 +455,7 @@ text
 │  ┌──────────────────────────────────────────────────┐              │
 │  │  ATTACHMENTS:                                     │              │
 │  │  ├── Drill head                                   │              │
-│  │  ├── Impact driver head                           │              │
+│  │  ├── effect driver head                           │              │
 │  │  ├── Circular saw head                            │              │
 │  │  ├── Reciprocating saw head                       │              │
 │  │  ├── Jigsaw head                                  │              │
@@ -534,7 +534,7 @@ text
 MANUFACTURING PRINCIPLES
 
 1. SUSTAINABILITY FIRST
-   Every process selected for minimum environmental impact
+   Every process selected for minimum environmental effect
 
 2. QUALITY INHERENT
    Quality designed in, not inspected in
@@ -1909,12 +1909,12 @@ ISO 14001	Environmental Management	Achieved	Month 18
 ISO 9001	Quality Management	Achieved	Month 12
 Fair Trade	Social Responsibility	In Progress	Month 36
 Carbon Neutral	Science-Based Targets	Achieved	Month 24
-Environmental Impact Metrics
+Environmental effect Metrics
 
 text
 
 ┌─────────────────────────────────────────────────────────────────────┐
-│                   ENVIRONMENTAL IMPACT METRICS                      │
+│                   ENVIRONMENTAL effect METRICS                      │
 │                      Annual Performance                             │
 ├─────────────────────────────────────────────────────────────────────┤
 │                                                                     │
@@ -2035,7 +2035,7 @@ text
 │                                                                     │
 │  INCOMING MATERIAL TESTING:                                         │
 │  ├── Chemical analysis: Material composition                       │
-│  ├── Mechanical testing: Tensile, hardness, impact                 │
+│  ├── Mechanical testing: Tensile, hardness, effect                 │
 │  ├── Dimensional: Sample measurement                               │
 │  └── Documentation: Certificate verification                       │
 │                                                                     │
@@ -2336,7 +2336,7 @@ text
 │                                                                     │
 │  Risk: Supply chain disruption                                      │
 │  ├── Probability: Medium                                           │
-│  ├── Impact: High                                                  │
+│  ├── effect: High                                                  │
 │  ├── Mitigation:                                                   │
 │  │   ├── Multiple supplier qualification                           │
 │  │   ├── Strategic inventory buffers                               │
@@ -2346,7 +2346,7 @@ text
 │                                                                     │
 │  Risk: Equipment failure                                            │
 │  ├── Probability: Medium                                           │
-│  ├── Impact: Medium                                                │
+│  ├── effect: Medium                                                │
 │  ├── Mitigation:                                                   │
 │  │   ├── Preventive maintenance program                            │
 │  │   ├── Critical spare parts inventory                            │
@@ -2356,7 +2356,7 @@ text
 │                                                                     │
 │  Risk: Quality failure                                              │
 │  ├── Probability: Low                                              │
-│  ├── Impact: High                                                  │
+│  ├── effect: High                                                  │
 │  ├── Mitigation:                                                   │
 │  │   ├── Robust QMS implementation                                 │
 │  │   ├── 100% testing of safety-critical items                    │
@@ -2370,7 +2370,7 @@ text
 │                                                                     │
 │  Risk: Market demand volatility                                     │
 │  ├── Probability: Medium                                           │
-│  ├── Impact: Medium                                                │
+│  ├── effect: Medium                                                │
 │  ├── Mitigation:                                                   │
 │  │   ├── Diversified product portfolio                             │
 │  │   ├── Internal enterprise demand baseline                       │
@@ -2380,7 +2380,7 @@ text
 │                                                                     │
 │  Risk: Cost escalation                                              │
 │  ├── Probability: Medium                                           │
-│  ├── Impact: Medium                                                │
+│  ├── effect: Medium                                                │
 │  ├── Mitigation:                                                   │
 │  │   ├── Long-term supplier agreements                             │
 │  │   ├── Continuous improvement program                            │
@@ -2394,7 +2394,7 @@ text
 │                                                                     │
 │  Risk: Technology obsolescence                                      │
 │  ├── Probability: Low                                              │
-│  ├── Impact: Medium                                                │
+│  ├── effect: Medium                                                │
 │  ├── Mitigation:                                                   │
 │  │   ├── Continuous R&D investment                                 │
 │  │   ├── Modular product architecture                              │
@@ -2404,7 +2404,7 @@ text
 │                                                                     │
 │  Risk: Regulatory change                                            │
 │  ├── Probability: Medium                                           │
-│  ├── Impact: Low                                                   │
+│  ├── effect: Low                                                   │
 │  ├── Mitigation:                                                   │
 │  │   ├── Exceed current standards                                  │
 │  │   ├── Industry association participation                        │
@@ -2414,7 +2414,7 @@ text
 │                                                                     │
 │  Risk: Competition                                                  │
 │  ├── Probability: High                                             │
-│  ├── Impact: Medium                                                │
+│  ├── effect: Medium                                                │
 │  ├── Mitigation:                                                   │
 │  │   ├── Differentiation through sustainability                    │
 │  │   ├── Lifetime warranty value proposition                       │
@@ -2427,9 +2427,9 @@ text
 │                                                                     │
 │  ENVIRONMENTAL RISKS:                                               │
 │                                                                     │
-│  Risk: Climate change impacts                                       │
+│  Risk: Climate change effects                                       │
 │  ├── Probability: High                                             │
-│  ├── Impact: Medium                                                │
+│  ├── effect: Medium                                                │
 │  ├── Mitigation:                                                   │
 │  │   ├── Climate-resilient facility design                         │
 │  │   ├── Water recycling and conservation                          │
@@ -2439,7 +2439,7 @@ text
 │                                                                     │
 │  Risk: Resource scarcity                                            │
 │  ├── Probability: Medium                                           │
-│  ├── Impact: Medium                                                │
+│  ├── effect: Medium                                                │
 │  ├── Mitigation:                                                   │
 │  │   ├── Circular economy design                                   │
 │  │   ├── Recycled material preference                              │
@@ -2592,7 +2592,7 @@ text
 │                                                                     │
 │  YEAR 3-4 (DIVERSIFICATION):                                        │
 │  ├── Universal Socket Set                                          │
-│  ├── Cordless Impact Driver                                        │
+│  ├── Cordless effect Driver                                        │
 │  ├── Laser Level System                                            │
 │  ├── Electronic Hearing Protection                                 │
 │  ├── Fall Protection System                                        │
